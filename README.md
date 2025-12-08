@@ -5,3 +5,5 @@ Run in a terminal environment, emulator, tty, I dont care.
 hi.sh is the Linux build and its source code in raw text on one file.
 
 hi.bat is the Windows build and its source code in raw text on one file.
+
+a new version (hi_windowed.bat) has been added to the repo, it opens a window that says hi using a temporary vbscript file
